@@ -7,8 +7,8 @@
 # PREL
 
 **PREL** es una aplicación web desarrollada para optimizar la gestión y reserva de equipos especializados en laboratorios de la facultad. Permite:
-- ✅ Reservar equipos en tiempo real con validación de horarios.
- ✅ Visualizar disponibilidad actualizada de osciloscopios, generadores de señal, multímetros y más.
+- ✅ Reservar equipos en tiempo real con validación de horarios.  
+✅ Visualizar disponibilidad actualizada de osciloscopios, generadores de señal, multímetros y más.
  ✅ Generar reportes de uso y mantenimiento.
  ✅ Notificar sobre equipos que requieren revisión.
 
