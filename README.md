@@ -21,8 +21,8 @@
 - Garantizar disponibilidad inmediata de información de los equipos de laboratorio
 - Simplificar el proceso de reserva de equipos
 - Permitir a los usuarios reportar incidencias directamente desde la plataforma
-- Centralizar la información técnica en un repositorio digital accesible  
-‭- Priorizar el uso equitativo de equipos críticos
+- Centralizar la información técnica en un repositorio digital accesible.  
+- Priorizar el uso equitativo de equipos críticos
 - Garantizar la seguridad y accesibilidad mediante autenticación, roles diferenciados y una interfaz interactiva
 
 ---
