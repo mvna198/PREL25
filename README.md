@@ -1,5 +1,5 @@
-📟 PREL: Plataforma de Reserva de Equipos de Laboratorio, 2025
-*Proyecto final del curso de Ingeniería de Software*
+📟 PREL: Plataforma de Reserva de Equipos de Laboratorio, 2025  
+*Proyecto final del curso de Ingeniería de Software*  
 *Facultad de Ingeniería Eléctrica y Electrónica - Universidad Nacional de Ingeniería (UNI), Lima, Perú*
 
 ---
